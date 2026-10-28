@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-28T12:00:00+00:00","severity":"INFO","source":"lab-agent","event":"heartbeat","message":"Synthetic health check completed"}
+{"timestamp":"2026-10-28T12:01:00+00:00","severity":"WARNING","source":"lab-auth","event":"login_failed","message":"Synthetic sign-in failure for lab-user"}
+{"timestamp":"2026-10-28T12:02:00+00:00","severity":"ERROR","source":"lab-backup","event":"backup_failed","message":"Synthetic backup target unavailable"}
